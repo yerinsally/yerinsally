@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 pip install -r requirements.txt
 uvicorn main:app --reload
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={yerinsally}&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={yerinsally}&theme=warm"/>
