@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![yerinsally's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsally&show_icons=true&theme=dark)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={yerinsally}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={yerinsally}&theme=warm"/>
