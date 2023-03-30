@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 ![yerinsally's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsally&show_icons=true&theme=dark)
 
+pip install -r requirements.txt
+uvicorn main:app --reload
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={yerinsally}&theme=warm)
 <img src="http://mazandi.herokuapp.com/api?handle={yerinsally}&theme=warm"/>
