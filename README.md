@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![yerinsally's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsally&show_icons=true&theme=dark)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=200&section=footer)
