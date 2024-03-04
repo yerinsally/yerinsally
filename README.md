@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yerin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ![yerinsally's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsally&show_icons=true&theme=dark) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yerin7582@naver.com)](https://solved.ac/yerin7582@naver.com)
