@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yerin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fquilled-erica-bca.notion.site%2Fdaea2a854f3b46d19a264507f6aa5ada&count_bg=%23B096ED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=notion&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerinsally&count_bg=%23C486E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fquilled-erica-bca.notion.site%2Fdaea2a854f3b46d19a264507f6aa5ada&count_bg=%23C486E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Notion&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![yerinsally's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsally&show_icons=true&theme=dracula) 
