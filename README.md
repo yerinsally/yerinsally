@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yerin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yerin's%20GitHub%20👋🏼&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-# 👩🏻‍💻 About Me
+# 🚀 About Me
 데이터 기반의 문제 해결에 관심 있는 예비 데이터 분석가입니다.  
 분석과 자동화에 강점을 가지고 다양한 프로젝트와 인턴 경험을 쌓아가고 있습니다.
 
