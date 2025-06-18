@@ -16,29 +16,28 @@ Here are some ideas to get you started:
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yerin's%20GitHub%20👋🏼&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-
 ## 🚀 About Me
 Aspiring data analyst with a strong interest in data-driven problem solving.  
 Skilled in automation, data analysis, and cross-functional collaboration through projects & internships.
 
-### 🎓 Education  
+## 🎓 Education  
 *(2020.03 - 2024.08)*  
 **Sookmyung Women’s University**  
 1st Major | Business Administration  
 Interdepartmental Major | Business Analytics  
 
-### 💼 Internship  
+## 💼 Internship  
 *(2023.06 - 2023.10)*  
 **SANDBOX NETWORK** | Data Analysis Team  
 *(2023.10 - 2024.01)*  
 **NAVER Z** | Monetization Team  
 
-### 💡 Activities  
+## 💡 Activities  
 **BALL** | Univeristy Data Analytics Club, 1st Cohort  
 **BDA** | Big Data Analytics Society, 5th Cohort  
 **TAVE** | IT United Club, 13th Data Analytics & 14th Tech Operation Lead  
 
-### 🔧 Languages & Tools
+## 🔧 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
