@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yerin's%20GitHub%20👋🏼&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ## 🚀 About Me
@@ -21,17 +23,17 @@ Skilled in automation, data analysis, and cross-functional collaboration through
 
 ### 🎓 Education  
 **Sookmyung Women’s University** *(2020.03 ~ 2024.08)*  
-- 1st Major | Business Administration  
-- Interdepartmental Major | Business Analytics  
+1st Major | Business Administration  
+Interdepartmental Major | Business Analytics  
 
 ### 💼 Internship  
-- **SANDBOX NETWORK** | Data Analysis *(2023.06 ~ 2023.10)*  
-- **NAVER Z** | Monetization *(2023.10 ~ 2024.01)*  
+**SANDBOX NETWORK** | Data Analysis *(2023.06 ~ 2023.10)*  
+**NAVER Z** | Monetization *(2023.10 ~ 2024.01)*  
 
 ### 💡 Activities  
-- **BALL** | Univeristy Data Analytics Club, 1st Cohort *(2022.09 ~ 2023.12)*  
-- **BDA** | Big Data Analytics Society, 5th Cohort *(2022.11 ~ 2023.04)*  
-- **TAVE** | IT United Club, 13th Data Analytics & 14th Tech Operation Lead *(2024.03 ~ 2025.01)*
+**BALL** | Univeristy Data Analytics Club, 1st Cohort *(2022.09 ~ 2023.12)*  
+**BDA** | Big Data Analytics Society, 5th Cohort *(2022.11 ~ 2023.04)*  
+**TAVE** | IT United Club, 13th Data Analytics & 14th Tech Operation Lead *(2024.03 ~ 2025.01)*
 
 ### 🔧 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -45,7 +47,6 @@ Skilled in automation, data analysis, and cross-functional collaboration through
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
-
 ![yerinsally's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsally&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
+</div>
