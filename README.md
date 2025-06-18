@@ -35,4 +35,5 @@ Skilled in automation, data analysis, and cross-functional collaboration through
 
 ---
 
-![yerinsally's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsally&show_icons=true&theme=dracula)
+![yerinsally's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsally&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+
