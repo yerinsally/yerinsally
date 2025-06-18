@@ -22,18 +22,21 @@ Aspiring data analyst with a strong interest in data-driven problem solving.
 Skilled in automation, data analysis, and cross-functional collaboration through projects & internships.
 
 ### 🎓 Education  
-**Sookmyung Women’s University** *(2020.03 ~ 2024.08)*  
+*(2020.03 - 2024.08)*  
+**Sookmyung Women’s University**  
 1st Major | Business Administration  
 Interdepartmental Major | Business Analytics  
 
 ### 💼 Internship  
-**SANDBOX NETWORK** | Data Analysis *(2023.06 ~ 2023.10)*  
-**NAVER Z** | Monetization *(2023.10 ~ 2024.01)*  
+*(2023.06 - 2023.10)*  
+**SANDBOX NETWORK** | Data Analysis Team  
+*(2023.10 - 2024.01)*  
+**NAVER Z** | Monetization Team  
 
 ### 💡 Activities  
-**BALL** | Univeristy Data Analytics Club, 1st Cohort *(2022.09 ~ 2023.12)*  
-**BDA** | Big Data Analytics Society, 5th Cohort *(2022.11 ~ 2023.04)*  
-**TAVE** | IT United Club, 13th Data Analytics & 14th Tech Operation Lead *(2024.03 ~ 2025.01)*
+**BALL** | Univeristy Data Analytics Club, 1st Cohort  
+**BDA** | Big Data Analytics Society, 5th Cohort  
+**TAVE** | IT United Club, 13th Data Analytics & 14th Tech Operation Lead  
 
 ### 🔧 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
