@@ -15,21 +15,23 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yerin's%20GitHub%20👋🏼&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-# 🚀 About Me
-데이터 기반의 문제 해결에 관심 있는 예비 데이터 분석가입니다.  
-분석과 자동화에 강점을 가지고 다양한 프로젝트와 인턴 경험을 쌓아가고 있습니다.
+## 🚀 About Me
+Aspiring data analyst with a strong interest in data-driven problem solving.  
+Skilled in automation, data analysis, and cross-functional collaboration through projects & internships.
 
-## 🎓 Education  
-숙명여자대학교 (2020.03 ~ 2024.08) : 경영학부, 비즈니스 애널리틱스
+### 🎓 Education  
+**Sookmyung Women’s University** *(2020.03 ~ 2024.08)*  
+- 1st Major | Business Administration  
+- Interdepartmental Major | Business Analytics  
 
-## 🧑🏻‍🏫 Internship  
-- 샌드박스 네트워크 (2023.06 ~ 2023.10)  
-- 네이버제트 (2023.10 ~ 2024.01)  
+### 💼 Internship  
+- **SANDBOX NETWORK** | Data Analysis *(2023.06 ~ 2023.10)*  
+- **NAVER Z** | Monetization *(2023.10 ~ 2024.01)*  
 
-## 💡 Activities  
-- 데이터분석 교내동아리 BALL 1기 (2022.09 ~ 2023.12)  
-- 빅데이터분석학회 BDA 5기 (2022.11 ~ 2023.06)  
-- IT연합동아리 TAVE 13기 활동, 14기 운영진 (2024.03 ~ 2025.01)
+### 💡 Activities  
+- **BALL** | Univeristy Data Analytics Club, 1st Cohort *(2022.09 ~ 2023.12)*  
+- **BDA** | Big Data Analytics Society, 5th Cohort *(2022.11 ~ 2023.04)*  
+- **TAVE** | IT United Club, 13th Data Analytics & 14th Tech Operation Lead *(2024.03 ~ 2025.01)*
 
 ---
 
